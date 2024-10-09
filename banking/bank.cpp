@@ -7,7 +7,7 @@ using namespace std;
 void bank_menu()
 {
         cout << "testing";
-        cout << " and testing";
+        cout << " and testing and how this works";
     }
 
     int main()
